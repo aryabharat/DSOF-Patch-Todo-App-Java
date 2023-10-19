@@ -71,7 +71,7 @@
          <dependency>
              <groupId>org.springframework</groupId>
              <artifactId>spring-beans</artifactId>
-             <version>5.3.10.RELEASE</version> <!-- Replace with a secure and up-to-date version -->
+             <version>5.3.18</version> <!-- Replace with a secure and up-to-date version -->
          </dependency>
         
         <!-- Other dependencies for your project go here -->
